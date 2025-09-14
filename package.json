@@ -1,0 +1,28 @@
+{
+  "name": "metiuw",
+  "version": "1.0.2",
+  "description": "avatar bot",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/builders": "^1.4.0",
+    "@ksoft/api": "^3.1.9",
+    "audit": "^0.0.6",
+    "axios": "^0.25.0",
+    "chalk": "^4.1.2",
+    "common-tags": "^1.8.0",
+    "delay": "^5.0.0",
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "genius-lyrics": "^4.2.9",
+    "image-palette": "^2.1.0",
+    "image-pixels": "^2.2.2",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^6.0.9",
+    "node-superfetch": "^0.2.3",
+    "systeminformation": "^5.8.0",
+    "waifu.pics-wrapper": "^1.0.0"
+  }
+}
