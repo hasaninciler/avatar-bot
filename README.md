@@ -2,7 +2,7 @@
 <p align="center">An officially verified Discord bot that allows users to view and explore server and user details such as banners, icons, and avatars.</p>
 
 <p align="center">
-  <img src="2025-09-12 210418.png" alt="Avatar Bot Preview" width="600"/>
+  <img src="2025-09-12 210720.png" alt="Avatar Bot Preview" width="600"/>
 </p>
 
 ---
